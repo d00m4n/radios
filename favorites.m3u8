@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,euronews en directo 2023-12-15 08:20,D:/dtools/smplayer-portable/icons/euronews.jpg,0
+#EXTINF:0,Euronews,D:/dtools/smplayer-portable/icons/euronews.jpg,0
 https://www.youtube.com/embed/O9mOtdZ-nSk?autoplay=1&mute=1&enablejsapi=1&showinfo=0&embed_config=%7B%22primaryThemeColor%22%3A%22%23005587%22%2C%22autonavRelatedVideos%22%3Atrue%2C%22enableIma%22%3Atrue%2C%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%2C%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F6458%2Fes_euronews_new%2Flive%22%2C%22cust_params%22%3A%22lng%3Des%26ntvPlacement%3D1108721%26page%3Dlive%26player_type%3Dpfp%22%7D%7D%7D&origin=https%3A%2F%2Fes.euronews.com&widgetid=1
-#EXTINF:0,JOAQUÍN SABINA - PACTO ENTRE CABALLEROS,D:/dtools/smplayer-portable/icons/rockfm.png,0
+#EXTINF:0,Rock FM,D:/dtools/smplayer-portable/icons/rockfm.png,0
 https://rockfm-cope.flumotion.com/chunks.m3u8
 #EXTINF:0,Noticies 324,D:/dtools/smplayer-portable/icons/324.png,0
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8

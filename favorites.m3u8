@@ -4,7 +4,7 @@ https://www.youtube.com/embed/O9mOtdZ-nSk?autoplay=1&mute=1&enablejsapi=1&showin
 #EXTINF:0,Rock FM,D:/dtools/smplayer-portable/icons/rockfm.png,0
 https://rockfm-cope.flumotion.com/chunks.m3u8
 #EXTINF:0,Noticies 324,D:/dtools/smplayer-portable/icons/324.png,0
-https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 #EXTINF:0,CANAL 24 HORAS,D:/dtools/smplayer-portable/icons/logoRTVE.png,0
 https://www.youtube.com/watch?v=M90qWFGEsv4
 #EXTINF:0,Cat Radio,D:/dtools/smplayer-portable/icons/logo-catradio.png,0
@@ -15,3 +15,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
 #EXTINF:0,Cadena 100,D:/dtools/smplayer-portable/icons/512x512bb.jpg,0
 https://server8.emitironline.com:18196/stream
+#EXTINF:0,Tv3,D:/dtools/smplayer-portable/icons/324.png,0
+https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
